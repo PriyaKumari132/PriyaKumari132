@@ -1,12 +1,12 @@
 <!-- ================= HEADER BANNER (ANIMATED WAVE) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Priya%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20from%20India&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Hi%20There,%20I%20am%20Priya%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20from%20India&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
 <!-- ================= ANIMATED TYPING INTRO ================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+JavaScript+%2F+TypeScript+%2F+Python;Building+Scalable+%26+User-Friendly+Apps;Currently+Learning+React%2C+Next.js%2C+Express%2C+FastAPI;Always+Open+to+Collaborate+on+Cool+Projects!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+JS+%2F+TS+%2F+Python;Building+Scalable+%26+User-Friendly+Apps;Learning+React%2C+Next.js%2C+Express%2C+FastAPI;Open+to+Collaborate+on+Cool+Projects!" alt="Typing SVG" />
   </a>
 </p>
 
